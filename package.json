@@ -1,0 +1,16 @@
+{
+  "description": "Just Tarafından Yapılan Başvuru Botu Altyapısıdır. Apache Lisans'ı İle Korunmaktadır.",
+  "name": "basvuru-bot-v6",
+  "version": "6.7.1",
+  "main": "just1n.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Just1N",
+  "license": "ISC",
+  "dependencies": {
+    "@akarui/aoi.db": "^2.3.1",
+    "@akarui/aoi.music": "^2.4.0",
+    "aoi.js": "^6.7.1"
+  }
+}
